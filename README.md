@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me ... linkedin/in/shaikshasyed
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...No Hugs and Kisses----Only Bugs and Fixes
 
 <!---
 shaikshasyed/shaikshasyed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
