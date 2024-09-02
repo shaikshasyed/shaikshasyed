@@ -29,20 +29,3 @@ Welcome to my GitHub profile! I'm a passionate MERN Stack Developer with a backg
 ---
 [![](https://visitcount.itsvg.in/api?id=shaikshasyed&icon=2&color=5)](https://visitcount.itsvg.in)
 
-
-## 🎯 Goals
-
-- Expand my knowledge in Web development.
-- Collaborate with other developers on exciting projects.
-- Contribute more to open-source projects.
-
-
-## 🎨 Interests
-
-- Coding and building new things
-- Reading about tech innovations
-- Participating in hackathons
-
-## 🌟 Fun Fact
-
-I’m always up for a challenge, especially if it involves learning something new!
