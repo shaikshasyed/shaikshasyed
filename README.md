@@ -5,7 +5,7 @@ Hi there, I'm
 
 Welcome to my GitHub profile! I'm a passionate MERN Stack Developer with a background in Computer Science Engineering. I love working on challenging projects that push the boundaries of technology.
 # 💫 About Me:
-🎓 *Education:* B.Tech in Computer Science Engineering <br>👯💻 *Training:* Full Stack Development - NxtWave CCBP 4.0 Academy<br>🤝 I’m looking for help with<br>🌱*Currently Doing:* MERN Stack Projects<br>💬 Ask me about Web Development<br>
+🎓 *Education:* B.Tech in Computer Science Engineering <br>👯💻 *Training:* Full Stack Development - NxtWave CCBP 4.0 Academy<br>🌱*Currently Doing:* MERN Stack Projects<br>💬 Ask me about Web Development<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaiksha_syeds) 
